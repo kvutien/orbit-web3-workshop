@@ -6,7 +6,7 @@ This workshop was presented at the OrbitDB session during the #Web3 summit in Be
 
 ## How to use this repository
 
-You'll notice, if you run `git log`, that you're on the root of this repository when you start. If you run `git branch`, you'll see that there are six branches with numbers in front of them. We encourage you to either create an extra repository for your work, and checkout the branches as you go, or to create separate branches to do work and checkout the tutorial branches (or, just overwrite your changes as you go). By the end of your `git checkout`s, you should have learned something about how to use OrbitDB!
+You'll notice, if you run `git log`, that you're on the root of this repository when you start. If you run `git branch -a`, you'll see that there are six branches with numbers in front of them. We encourage you to either create an extra repository for your work, and checkout the branches as you go, or to create separate branches to do work and checkout the tutorial branches (or, just overwrite your changes as you go). By the end of your `git checkout`s, you should have learned something about how to use OrbitDB!
 
 Our goal here is to create a basic Playlist app.
 
