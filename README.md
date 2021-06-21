@@ -1,6 +1,7 @@
 # web3-workshop
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/orbitdb/Lobby) [![Matrix](https://img.shields.io/badge/matrix-%23orbitdb%3Apermaweb.io-blue.svg)](https://riot.permaweb.io/#/room/#orbitdb:permaweb.io)
+[![](https://img.shields.io/badge/usage-explore-violet.svg)](https://www.npmjs.com/package/react-orbitdb)
 
 This workshop was presented at the OrbitDB session during the #Web3 summit in Berlin, in August 2019.
 
